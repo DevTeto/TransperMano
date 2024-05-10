@@ -27,7 +27,7 @@ def Admin(message):
 يمكنك نقل اعضاء لجروبك 🛎
 من اي جروب اخر عام  ☄
 
-المـطور : @TOPTETO *""",reply_markup=inline ,parse_mode="markdown")
+المـطور : @Mano2005700000000000000000000000 *""",reply_markup=inline ,parse_mode="markdown")
 
 @bot.callback_query_handler(lambda call:True)
 def call(call):
